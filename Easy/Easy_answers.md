@@ -13,6 +13,7 @@ Here is the response after the installation is finished
 Here is the screenshot of the terminal after pulling the model
 ![llama model](pulling_model.png)
 
+
 ## Asking the model a question
 Here is the prompt to the model
 ![Prompt](model_response.png)
