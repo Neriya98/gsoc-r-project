@@ -6,6 +6,7 @@ Install the Ollama software, pull the Q4_K_M quantization of llama3.2:3b-instruc
 ## Installation of ollama
 I firstly used the command curl to download ollama with my terminal
 ![installation of ollama](ollama_installation.png)
+
 Here is the response after the installation is finished
 ![installation finished](ollama_installation_completed.png)
 
